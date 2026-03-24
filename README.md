@@ -1,5 +1,8 @@
 # env-echo
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Offline environment variable manager: generate, validate, mock, and audit .env files. No cloud dependencies, no AI -- just solid local tooling.
 
 ## Features
